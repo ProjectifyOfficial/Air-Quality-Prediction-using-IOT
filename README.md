@@ -10,32 +10,23 @@ Detecting Pollution Levels and giving information to Mobile and recording the va
 * [LIPO Batteries for Drone](http://amzn.in/dyLMOJ1) - runs maximum 1 hour 
 * [Drone] crafted by own from youtube tutorials 
 
-### System Design
+### Building Drone with components
 
-### Installing
+![Drone](https://user-images.githubusercontent.com/35171449/41200774-ddcde1da-6cc8-11e8-8500-5fbfd95666d6.png)
 
-A step by step series of examples that tell you how to get a development env running
+### Configuring Application
+![putty config](https://user-images.githubusercontent.com/35171449/41200797-0e200994-6cc9-11e8-8e3b-057298ebf944.PNG)
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+### Result
+![output screen1](https://user-images.githubusercontent.com/35171449/41200857-fd76d270-6cc9-11e8-81d8-e4b8bf090e8a.PNG)
+![output screen3](https://user-images.githubusercontent.com/35171449/41200808-3dd93ffc-6cc9-11e8-81f2-d24f11a543b7.PNG)
+![output screen4](https://user-images.githubusercontent.com/35171449/41200813-5c88028a-6cc9-11e8-8a6e-a979e7a5c269.PNG)
+![spreadsheet](https://user-images.githubusercontent.com/35171449/41200829-9aafbb7a-6cc9-11e8-9c16-f9a5dd6206c1.PNG)
 
 ### References
-
-* [1] Neha R. Rewatkar, Prof. Deepali M. Khatri, “Cost Effective IOT Based Air Pollution Monitoring and Air Quality Analysis”, 2016
-
-* [2] Jiang W, Wang Y, Tsou M-H, Fu X, “Using Social Media to Detect Outdoor Air Pollution and Monitor Air Quality Index (AQI): A Geo- Targeted Spatiotemporal Analysis Framework with Sina Weibo (Chinese Twitter)”, 201
-
-* [3] Siva Shankar Chandrasekaran, ”An Intelligent Air Pollutant  Vehicle Tracker System Using Gas Sensor And GPS”, 2014
-* [4]James J.Q. Yu, Victor O.K. Li,” Sensor Deployment for Air Pollution Monitoring  Using Public Transportation System”, 2012
-
+* [1] WSN Based Air Pollution Monitoring System, International Journal of Science and Engineering Applications (IJSEA), Amol R. Kasar, Dnyandeo S. Khemnar, Nagesh P. Tembhurnikar, 2016
+* [2] Zigbee Based Wireless Air Pollution Monitoring System Using Low Cost and Energy Efficient Sensors, International Journal of Engineering Trends and Technology (IJETT) – Volume 10 Number 9 Mr.Vasim K. Ustad , Prof.A.S.Mali, Mr.SuhasS.Kibile - Apr 2015
+* [3] Using Social Media to Detect Outdoor Air Pollution and Monitor Air Quality Index (AQI) , PLoS ONE , Jiang W, Wang Y, Tsou M-H, Fu X, 2015
+* [4] Sensor Deployment for Air Pollution Monitoring Using Public Transportation System, Evolutionary Computation (CEC), 2012 IEEE Congress on, 1.James J.Q. Yu, Victor O.K. Li, Albert Y.S. Lam, 2013 
+* [5] Real Time Wireless Air Pollution Monitoring system. ICTACT Journal on Communication Technology, Prasad, Raja Vara and Baig, M Z and Mishra, R K and P, Rajalakshmi and Desai, U B and Merchant, 2011
+* [6] Roger S Pressman,Software Engineering: A Practitioners Approach, 7th Edition Hardcover, 2014
