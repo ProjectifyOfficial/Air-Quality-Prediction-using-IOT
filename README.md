@@ -9,6 +9,7 @@ Detecting Pollution Levels and giving information to Mobile and recording the va
 * [GAS SENSOR](http://amzn.in/aSMVMk1)
 * [LIPO Batteries for Drone](http://amzn.in/dyLMOJ1) - runs maximum 1 hour 
 * [Drone] crafted by own from youtube tutorials 
+* check the rest of the requirements like API etc in Documents folder
 
 ### Building Drone with components
 
