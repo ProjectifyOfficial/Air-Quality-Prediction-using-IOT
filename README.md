@@ -1,4 +1,4 @@
-# Air-Pollution-detection-System-using-IOT
+# Air Quality Prediction using IOT
 Detecting Pollution Levels and giving information to Mobile and recording the values in the form of Spread Sheets.
 ## Getting Started
   This project attempts to build an efficient system which identifies highly polluted areas in less time.A drone is built with sensors like NO2, CO2, O2 etc, a micro controller and GPS. This drone is powered by lithium batteries and can be controlled remotely. The Central Pollution Control Board (CPCB) has set some standard concentration of gases that are present in a non-polluted environment. The drone flies around the city. For every 2 minutes the drone senses the concentration of gases and calculates whether the air is polluted or not. If it is polluted then GPS records the location. These values are sent to cloud or administrator via internet. Later a strict action can be taken by the Ministry.  This project also showed that a single cost effective system can efficiently identify polluted areas and also involves less human intervention involved with the traditional systems.
